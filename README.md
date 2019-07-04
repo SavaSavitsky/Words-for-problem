@@ -4,9 +4,10 @@ We have provided a file called “wordsforproblem.txt” which contains a sorted
 
 Your task is to write a program that reads the file and provides the following:
 
-the longest concatenated word (that is, the longest word that is comprised entirely of shorter words in the file)
-the 2nd longest concatenated word
-the total count of all the concatenated words in the file
+1) the longest concatenated word (that is, the longest word that is comprised entirely of shorter words in the file)
+2) the 2nd longest concatenated word
+3) the total count of all the concatenated words in the file
+
 The longest concatenated word: ethylenediaminetetraacetates
 
 The 2nd longest concatenated word: electroencephalographically
