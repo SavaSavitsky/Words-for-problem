@@ -12,4 +12,4 @@ The longest concatenated word: ethylenediaminetetraacetates
 
 The 2nd longest concatenated word: electroencephalographically
 
-The total count of all the concatenated words in the file: 99951
+The total count of all the concatenated words in the file: 97107
